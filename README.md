@@ -9,4 +9,5 @@ and nothing more (4)
 ```javascript
 let be = 0;
 let that = 42;
+let heinzelmann = "Feierabend";
 ```
