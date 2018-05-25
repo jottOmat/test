@@ -11,4 +11,5 @@ let be = 0;
 let that = 42;
 let heinzelmann = "Feierabend3";
 let heinzelmann = "Feierabend4";
+let johann = "TowelDay";
 ```
