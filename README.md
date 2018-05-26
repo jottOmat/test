@@ -18,7 +18,10 @@ let johann = "TowelDay";
 
 ```javascript
 
-let that = those;
+let
+    that = those,
+    Feier = "abend"
+    ;
 
 ```
 
