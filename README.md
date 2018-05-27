@@ -14,6 +14,7 @@ let heinzelmann = "Feierabend3";
 let heinzelmann = "Feierabend4";
 let johann = "TowelDay";
 let johann = "TowelDay";
+let Zaphod = "Beeblebrox";
 ```
 
 ```javascript
